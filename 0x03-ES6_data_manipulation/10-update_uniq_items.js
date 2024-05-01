@@ -9,3 +9,9 @@ export default function updateUniqueItems(map) {
   }
   return map;
 }
+
+// map.foreach((value, key, map_) => {
+//     if (value === 1){
+//         map_.set(key, 100);
+//     }
+// })
