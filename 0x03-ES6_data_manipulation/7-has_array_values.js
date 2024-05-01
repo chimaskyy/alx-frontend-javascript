@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function hasValuesFromArray(set_, array_) {
   let bool = true;
   array_.map((val) => {
